@@ -1,4 +1,4 @@
-package tech.d2024.d11_1;
+package tech.d2024.d11_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
